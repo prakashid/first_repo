@@ -1,1 +1,2 @@
 i have made changes. let me see if this is getting tracked
+i am making changes to understand how GIT conflict resolution works and learn from that
