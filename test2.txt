@@ -1,2 +1,6 @@
 i have made changes. let me see if this is getting tracked
+<<<<<<< HEAD
 i am making changes to understand how GIT conflict resolution works and learn from that
+=======
+i am making changes to understand how GIT conflict resolution works
+>>>>>>> 1cc4e4de1120a0ceeb7b51166a373d5f8979c123
